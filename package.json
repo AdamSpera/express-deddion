@@ -1,0 +1,23 @@
+{
+  "name": "express-deddion",
+  "version": "1.0.0",
+  "description": "Security vulnerability demonstration in NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSpera/express-deddion.git"
+  },
+  "author": "Adam T Spera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamSpera/express-deddion/issues"
+  },
+  "homepage": "https://github.com/AdamSpera/express-deddion#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.7.2"
+  }
+}
